@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\APL\APL\bin\Debug\netcoreapp2.1\APL.deps.json
+C:\Users\user\source\repos\APL\APL\bin\Debug\netcoreapp2.1\APL.runtimeconfig.json
+C:\Users\user\source\repos\APL\APL\bin\Debug\netcoreapp2.1\APL.runtimeconfig.dev.json
+C:\Users\user\source\repos\APL\APL\bin\Debug\netcoreapp2.1\APL.dll
+C:\Users\user\source\repos\APL\APL\obj\Debug\netcoreapp2.1\APL.csprojAssemblyReference.cache
+C:\Users\user\source\repos\APL\APL\obj\Debug\netcoreapp2.1\APL.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\APL\APL\obj\Debug\netcoreapp2.1\APL.RazorAssemblyInfo.cache
+C:\Users\user\source\repos\APL\APL\obj\Debug\netcoreapp2.1\APL.RazorAssemblyInfo.cs
+C:\Users\user\source\repos\APL\APL\obj\Debug\netcoreapp2.1\APL.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\APL\APL\obj\Debug\netcoreapp2.1\APL.AssemblyInfo.cs
+C:\Users\user\source\repos\APL\APL\obj\Debug\netcoreapp2.1\APL.RazorTargetAssemblyInfo.cache
+C:\Users\user\source\repos\APL\APL\bin\Debug\netcoreapp2.1\APL.pdb
+C:\Users\user\source\repos\APL\APL\obj\Debug\netcoreapp2.1\APL.dll
+C:\Users\user\source\repos\APL\APL\obj\Debug\netcoreapp2.1\APL.pdb
